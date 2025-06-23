@@ -11,7 +11,7 @@ In this project I'm building a machine learning model using natural language pro
 
 
 
-I'm using the [**Atticus Open Contract Dataset**](https://www.kaggle.com/konradb/atticus-open-contract-dataset-aok-beta) from **kaggle**, which is a hand labelled corpus of 200 legal contracts - courtesy of **atticusprojectai.org**. 
+I'm using the **Atticus Open Contract Dataset** from **kaggle**, which is a hand labelled corpus of 200 legal contracts - courtesy of **atticusprojectai.org**. 
 
 The commercial contracts in the dataset are  sourced from the EDGAR (Electronic Data Gathering, Analysis, and Retrieval) system used by the U.S. Securities and Exchange Commission (SEC). Publicly traded companies in the United States are required to file certain material contracts under SEC rules. Access to these contracts is available to the public for free at https://www.sec.gov/edgar.
 
